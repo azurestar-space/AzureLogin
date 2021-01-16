@@ -1,0 +1,12 @@
+name: AzureLogin
+main: space.azurestar.AzureLogin
+version: 0.0.1
+author: ResetPower
+
+commands:
+  login:
+    usage: "/login <password>"
+    description: "Login your account."
+  debug:
+    usage: "/debug"
+    description: "For developers."
